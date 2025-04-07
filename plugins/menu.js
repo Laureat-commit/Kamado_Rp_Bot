@@ -27,22 +27,22 @@ menu[commands[i].category] += `${config.PREFIX}${commands[i].pattern}\n`;
 
    // Construire le message du menu avec les catégories spécifiques
         let madeMenu = `
-[ *D.E.S.K-MD* ]
+[ *WASUKE MD* ]
 ━━━━━━━━━━━━━❒        
 │Owner :  ${pushname}
 │Prefix : ${config.PREFIX}
 │Commands : ${commands.length}
-│Developer : Raizen DArki Linkid && Wasuke KAMADO
+│Developer :  Wasuke KAMADO
 ╰━━━━━━━━━━━━━❒
- HELLO THIS IS D.E.S.K-MD
+ HELLO THIS IS WASUKE MD
 ╰━━━━━━━━━━━━━❒        
- ©LAUREAT-BOT
+ ©KAMADO-BOT
 ╰━━━━━━━━━━━━━❒
 
-> *BASICS* 🔶
+> *BASICS* ❄️
  ${menu.basics}
 ╰━━━━━━━━━━━━━❒
-> *ADVENTURE* 🎮
+> *ADVENTURE* 🦅
  ${menu.adventure}
 ╰━━━━━━━━━━━━━❒
 > *STORY* 🎥
@@ -51,7 +51,7 @@ menu[commands[i].category] += `${config.PREFIX}${commands[i].pattern}\n`;
 > *PROFILE* 👤
  ${menu.profile}
 ╰━━━━━━━━━━━━━❒
-POWERED BY RAIZEN_LINKID❄️
+POWERED BY WASUKE D KAMADO 🌠 
         `;
 
         // Envoyer le menu en message
