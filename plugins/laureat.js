@@ -23,7 +23,7 @@ _*~LAUREAT berceau des guerriers de l'infini.*_
 `;
 
     // Image à utiliser (peut venir d'une config ou être spécifiée directement)
-    const imageUrl = 'https://i.imgur.com/NBYjSbe.jpeg'; // Remplace par ton image ou config.ALIVE_IMG
+    const imageUrl = 'https://files.catbox.moe/gkyepp.jpg'; // Remplace par ton image ou config.ALIVE_IMG
 
     try {
         // Envoi de l'image avec la légende
